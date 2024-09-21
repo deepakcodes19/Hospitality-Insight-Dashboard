@@ -32,9 +32,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 </p>
 
 
-## Overall Analysis View
+## Overall Analysis View  https://github.com/deepakcodes19/Hospitality-Insight-Dashboard/blob/main/Overall%20View.png
 
-https://app.powerbi.com/view?r=eyJrIjoiZGMzM2NiZDUtNTkxOS00YzA3LThkYjMtMDc5NTg1YjBmY2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+<p align="center">
+    <img src=' https://github.com/deepakcodes19/Hospitality-Insight-Dashboard/blob/main/Overall%20View.png
+' height="400">
+</p>
 
 ## Monthly Analysis View
 
