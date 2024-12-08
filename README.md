@@ -1,8 +1,9 @@
 # AtliQ Hospitality Analysis - PowerBI
+[Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGMzM2NiZDUtNTkxOS00YzA3LThkYjMtMDc5NTg1YjBmY2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) | [Presentation](https://youtu.be/qRkdEI8RX4A) | [LinkedIn Post](https://www.linkedin.com/posts/deepakyadav19_dataanalytics-powerbi-businessinsights-activity-7266417046152728576-PSSO?utm_source=share&utm_medium=member_desktop)
 
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
-Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGMzM2NiZDUtNTkxOS00YzA3LThkYjMtMDc5NTg1YjBmY2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 
 ## Problem statement
